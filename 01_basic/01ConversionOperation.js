@@ -1,4 +1,4 @@
-let score = "sami"
+/*let score = "sami"
 
 console.log(typeof score)
 
@@ -22,5 +22,32 @@ console.log( isLoggedIn);
 let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(typeof someNumber);
-console.log(someNumber);
+console.log(someNumber);*/
+
+//****************************************** Opertaion*****************************************
+
+let value = 3
+let negValue = -value
+//console.log(negValue)
+
+let str1 = "helo"
+let str2 = "sami"
+let str3 = str1 + str2 
+console.log(str3);
+
+console.log(1 + "2" + 2);
+
+console.log("1" + 2 + 2);
+
+
+console.log(1 + 2 +" 2");
+
+let GameCounter = 1001
+//GameCounter++;
+GameCounter--;
+console.log(GameCounter);
+console.log(GameCounter);
+
+
+
 
